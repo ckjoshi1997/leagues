@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/leagues/static/css/main.5f361e03.chunk.css",
+    "main.js": "/leagues/static/js/main.d81bdcf5.chunk.js",
+    "main.js.map": "/leagues/static/js/main.d81bdcf5.chunk.js.map",
+    "runtime-main.js": "/leagues/static/js/runtime-main.7448a5ce.js",
+    "runtime-main.js.map": "/leagues/static/js/runtime-main.7448a5ce.js.map",
+    "static/js/2.6d66d0c0.chunk.js": "/leagues/static/js/2.6d66d0c0.chunk.js",
+    "static/js/2.6d66d0c0.chunk.js.map": "/leagues/static/js/2.6d66d0c0.chunk.js.map",
+    "index.html": "/leagues/index.html",
+    "precache-manifest.091e370677004e078bba6048aead4d2a.js": "/leagues/precache-manifest.091e370677004e078bba6048aead4d2a.js",
+    "service-worker.js": "/leagues/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/leagues/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6d66d0c0.chunk.js.LICENSE.txt": "/leagues/static/js/2.6d66d0c0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/leagues/static/media/logo.5d5d9eef.svg",
+    "static/media/profile.jpg": "/leagues/static/media/profile.930399f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7448a5ce.js",
+    "static/js/2.6d66d0c0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d81bdcf5.chunk.js"
+  ]
+}
